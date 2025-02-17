@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "\u041B\u043E\u043C\u0438\u043D\u0430\u0442",
+    "Size1": 15,
+    "Size2": 15,
+    "Color": "\u0421\u0438\u043D\u0438\u0439",
+    "Finish": "\u041C\u0430\u0442",
+    "PricePerSquareMeter": 50,
+    "Country": "\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C",
+    "StockSquareMeters": 900,
+    "TileCode": "1"
+  },
+  {
+    "Name": "\u041A\u0430\u0444\u0435\u043B\u044C",
+    "Size1": 15,
+    "Size2": 15,
+    "Color": "\u041A\u0440\u0430\u0441\u043D\u044B\u0439",
+    "Finish": "\u0413\u043B\u044F\u043D\u0435\u0446",
+    "PricePerSquareMeter": 40,
+    "Country": "\u041F\u043E\u043B\u044C\u0448\u0430",
+    "StockSquareMeters": 1000,
+    "TileCode": "2"
+  },
+  {
+    "Name": "\u041F\u043B\u0438\u0442\u043A\u0430",
+    "Size1": 15,
+    "Size2": 15,
+    "Color": "\u0427\u0435\u0440\u043D\u044B\u0439",
+    "Finish": "\u0433\u043B\u044F\u043D\u0435\u0446",
+    "PricePerSquareMeter": 80,
+    "Country": "\u0418\u0441\u043F\u0430\u043D\u0438\u044F",
+    "StockSquareMeters": 700,
+    "TileCode": "3"
+  }
+]
