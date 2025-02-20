@@ -1,0 +1,15 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\bin\Debug\net8.0\ИТК14.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\bin\Debug\net8.0\ИТК14.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\bin\Debug\net8.0\ИТК14.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\bin\Debug\net8.0\ИТК14.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\bin\Debug\net8.0\ИТК14.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\refint\ИТК14.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ИТК14.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\ИТК14\obj\Debug\net8.0\ref\ИТК14.dll

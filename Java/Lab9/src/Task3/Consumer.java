@@ -1,7 +1,10 @@
 package Task3;
 
+import java.util.Random;
+
 public class Consumer extends Thread {
-    private Buffer buffer;
+    private final Buffer buffer;
+    private final Random random = new Random();
 
     public Consumer(Buffer buffer) {
         this.buffer = buffer;
@@ -9,10 +12,11 @@ public class Consumer extends Thread {
 
     @Override
     public void run() {
+        int a = 0;
         try {
-            while (true) {
+            while (a < 10) {
                 buffer.consume();
-                Thread.sleep(1000);
+                a++;
             }
         } catch (InterruptedException e) {
             e.printStackTrace();

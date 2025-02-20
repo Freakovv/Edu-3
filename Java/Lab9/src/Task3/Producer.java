@@ -1,7 +1,10 @@
 package Task3;
 
+import java.util.Random;
+
 public class Producer extends Thread {
-    private Buffer buffer;
+    private final Buffer buffer;
+    private final Random random = new Random();
 
     public Producer(Buffer buffer) {
         this.buffer = buffer;
@@ -9,11 +12,12 @@ public class Producer extends Thread {
 
     @Override
     public void run() {
+        int a = 0;
         try {
-            int value = 0;
-            while (true) {
+            int value = 1;
+            while (a < 10) {
                 buffer.produce(value++);
-                Thread.sleep(500);
+                a++;
             }
         } catch (InterruptedException e) {
             e.printStackTrace();

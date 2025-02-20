@@ -1,38 +1,34 @@
 package Task3;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Buffer {
-    private int[] buffer = new int[10];
-    private int count = 0;
+    private final List<Integer> buffer = new ArrayList<>();
+    private final int capacity = 5;
+
     public synchronized void produce(int value) throws InterruptedException {
-        // производитель ждёт
-        while (count == buffer.length) {
+        while (buffer.size() == capacity) {
             wait();
         }
 
-
-        buffer[count] = value;
-        count++;
-
+        buffer.add(value);
         System.out.println("Производитель добавил: " + value);
 
-        // будим потребителя
-        notify();
+        notifyAll(); // Будим потребителей
+        Thread.sleep(1000);
     }
 
     public synchronized int consume() throws InterruptedException {
-        // потребитель ждёт
-        while (count == 0) {
+        while (buffer.isEmpty()) {
             wait();
         }
 
-        // забираем
-        int value = buffer[count - 1];
-        count--;
-
+        int value = buffer.remove(buffer.size() - 1);
         System.out.println("Потребитель забрал: " + value);
 
-        // будим производителя
-        notify();
+        notifyAll(); // Будим производителей
+        Thread.sleep(1000);
         return value;
     }
 }

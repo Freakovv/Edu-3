@@ -1,0 +1,15 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\bin\Debug\net8.0\LINQ_Practice18.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\bin\Debug\net8.0\LINQ_Practice18.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\bin\Debug\net8.0\LINQ_Practice18.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\bin\Debug\net8.0\LINQ_Practice18.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\bin\Debug\net8.0\LINQ_Practice18.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\refint\LINQ_Practice18.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\LINQ_Practice18.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Шарпы\Practice\LINQ_Practice18\LINQ_Practice18\obj\Debug\net8.0\ref\LINQ_Practice18.dll

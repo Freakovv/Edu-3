@@ -1,0 +1,15 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\bin\Debug\net8.0\Practice19.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\bin\Debug\net8.0\Practice19.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\bin\Debug\net8.0\Practice19.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\bin\Debug\net8.0\Practice19.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\bin\Debug\net8.0\Practice19.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\refint\Practice19.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\Practice19.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\Практика\Practice19\Practice19\obj\Debug\net8.0\ref\Practice19.dll
