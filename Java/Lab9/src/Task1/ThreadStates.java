@@ -7,10 +7,9 @@ public class ThreadStates extends Thread {
     }
 
     public void run() {
-        System.out.printf("%s старт... \n", getName()); // Можно просто getName()
-        System.out.println("Состояние потока: " + Thread.currentThread().getState());
+        System.out.printf("%s старт... \n", getName());
         try {
-            Thread.sleep(500);
+            Thread.sleep(5000); 
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }

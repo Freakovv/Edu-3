@@ -1,10 +1,7 @@
 package Task3;
 
-import java.util.Random;
-
 public class Consumer extends Thread {
     private final Buffer buffer;
-    private final Random random = new Random();
 
     public Consumer(Buffer buffer) {
         this.buffer = buffer;

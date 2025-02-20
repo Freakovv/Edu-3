@@ -15,20 +15,21 @@ public class Buffer {
         buffer.add(value);
         System.out.println("Производитель добавил: " + value);
 
-        notifyAll(); // Будим потребителей
+        notifyAll(); // будим потребителей
         Thread.sleep(1000);
     }
 
-    public synchronized int consume() throws InterruptedException {
+
+
+    public synchronized void consume() throws InterruptedException {
         while (buffer.isEmpty()) {
             wait();
         }
 
-        int value = buffer.remove(buffer.size() - 1);
+        int value = buffer.removeLast();
         System.out.println("Потребитель забрал: " + value);
 
-        notifyAll(); // Будим производителей
+        notifyAll(); // будим производителей
         Thread.sleep(1000);
-        return value;
     }
 }

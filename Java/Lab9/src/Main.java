@@ -4,7 +4,7 @@ import Task3.*;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("\nВыберите задание:");
@@ -22,7 +22,7 @@ public class Main {
 
             switch (choice) {
                 case 1:
-//                    executeTask1();
+                    executeTask1();
                     break;
                 case 2:
                     executeTask2();
@@ -43,16 +43,16 @@ public class Main {
         ThreadStates thread = new ThreadStates("MyThread");
         System.out.println("Состояние потока перед стартом: " + thread.getState());
         thread.start();
-        Thread.sleep(5000);
 
-        try {
-            thread.join(); // Ждём завершения потока перед возвратом в меню
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        System.out.println("Состояние потока после запуска: " + thread.getState());
 
+        Thread.sleep(1000);
+        System.out.println("Состояние потока во время сна: " + thread.getState());
+
+        thread.join();
         System.out.println("Состояние потока после завершения: " + thread.getState());
     }
+
 
     private static void executeTask2() {
         System.out.println("Задание 2");
