@@ -6,8 +6,6 @@ namespace Practice19
 {
     class Task2
     {
-
-
         public static void CreateTxtFileTask2()
         {
             string path = "dates.txt";

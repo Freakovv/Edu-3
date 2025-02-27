@@ -12,6 +12,9 @@ namespace Practice19
             {
                 Console.WriteLine("Выберите задание:");
                 Console.WriteLine("1. Футболисты");
+                Console.WriteLine("2. Даты (текстовый)");
+                Console.WriteLine("3. Реки (бинарный)");
+                Console.WriteLine("3. Лабы (бинарный)");
                 Console.WriteLine("0. Выход");
                 string choice = Console.ReadLine();
 
@@ -19,6 +22,15 @@ namespace Practice19
                 {
                     case "1":
                         CallTask1();
+                        break;
+                    case "2":
+                        CallTask2();
+                        break;
+                    case "3":
+                        CallTask3();
+                        break;
+                    case "4":
+                        CallTask4();
                         break;
                     case "0":
                         return;
@@ -67,7 +79,7 @@ namespace Practice19
             }
         }
 
-        public static void CallTask2()
+        static void CallTask2()
         {
             while (true)
             {
@@ -98,5 +110,71 @@ namespace Practice19
             }
         }
 
+        static void CallTask3()
+        {
+            while (true)
+            {
+                Console.WriteLine("Меню работы с реками:");
+                Console.WriteLine("1. Создать бинарный файл");
+                Console.WriteLine("2. Просмотреть содержимое файла");
+                Console.WriteLine("3. Посчитать общую длину рек (глубина < 50)");
+                Console.WriteLine("0. Назад");
+                string choice = Console.ReadLine();
+
+                switch (choice)
+                {
+                    case "1":
+                        Reaver.CreateBinaryFile();
+                        break;
+                    case "2":
+                        Reaver.ViewBinaryFile();
+                        break;
+                    case "3":
+                        Reaver.GetTotalLength();
+                        break;
+                    case "0":
+                        return;
+                    default:
+                        Console.WriteLine("Некорректный ввод. Попробуйте снова.");
+                        break;
+                }
+            }
+        } 
+        static void CallTask4()
+        {
+            while (true)
+            {
+                Console.WriteLine("Меню работы с реками:");
+                Console.WriteLine("1. Создать бинарный файл");
+                Console.WriteLine("2. Просмотреть содержимое файла");
+                Console.WriteLine("3. Посчитать общую длину рек (глубина < 50)");
+                Console.WriteLine("0. Назад");
+                string choice = Console.ReadLine();
+
+                switch (choice)
+                {
+                    case "1":
+                        Lab.CreateBinaryFile();
+                        break;
+                    case "2":
+                        Lab.ViewBinaryFile();
+                        break;
+                    case "3":
+                        Lab.UpdateBinaryFile();
+                        break;
+                    case "0":
+                        return;
+                    default:
+                        Console.WriteLine("Некорректный ввод. Попробуйте снова.");
+                        break;
+                }
+            }
+        } 
+
+
+        static void CallTask5()
+        {
+
+        }
     }
 }

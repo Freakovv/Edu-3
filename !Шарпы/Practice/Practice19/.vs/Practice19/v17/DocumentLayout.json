@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\",
+  "WorkspaceRootPath": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice19\\practice19\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice19\\practice19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice19\\practice19\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practice19\\practice19\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\practice\\practice19\\practice19\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1505-A602-4E43-8353-5DFB82C4BEAD}|Practice19\\Practice19.csproj|solutionrelative:practice19\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task2.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Task2.cs",
-              "RelativeDocumentMoniker": "Practice19\\Task2.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Task2.cs",
-              "RelativeToolTip": "Practice19\\Task2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task4.cs",
+              "RelativeDocumentMoniker": "Practice19\\Task4.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task4.cs",
+              "RelativeToolTip": "Practice19\\Task4.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwGQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:41:42.081Z",
+              "WhenOpened": "2025-02-26T09:04:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task3.cs",
+              "RelativeDocumentMoniker": "Practice19\\Task3.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task3.cs",
+              "RelativeToolTip": "Practice19\\Task3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:56:21.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task5.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Task5.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task5.cs",
               "RelativeDocumentMoniker": "Practice19\\Task5.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Task5.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task5.cs",
               "RelativeToolTip": "Practice19\\Task5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T11:04:55.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Program.cs",
               "RelativeDocumentMoniker": "Practice19\\Program.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\Program.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Program.cs",
               "RelativeToolTip": "Practice19\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwLQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:44:33.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FootballPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\FootballPlayer.cs",
-              "RelativeDocumentMoniker": "Practice19\\FootballPlayer.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Practice19\\Practice19\\FootballPlayer.cs",
-              "RelativeToolTip": "Practice19\\FootballPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task2.cs",
+              "RelativeDocumentMoniker": "Practice19\\Task2.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task2.cs",
+              "RelativeToolTip": "Practice19\\Task2.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:41:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task1.cs",
+              "RelativeDocumentMoniker": "Practice19\\Task1.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\Practice\\Practice19\\Practice19\\Task1.cs",
+              "RelativeToolTip": "Practice19\\Task1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T11:08:36.9Z",
               "EditorCaption": ""

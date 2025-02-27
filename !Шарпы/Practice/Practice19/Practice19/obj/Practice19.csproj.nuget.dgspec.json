@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\Практика\\Practice19\\Practice19\\Practice19.csproj": {}
+    "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\Practice\\Practice19\\Practice19\\Practice19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\Практика\\Practice19\\Practice19\\Practice19.csproj": {
+    "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\Practice\\Practice19\\Practice19\\Practice19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\Практика\\Practice19\\Practice19\\Practice19.csproj",
+        "projectUniqueName": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\Practice\\Practice19\\Practice19\\Practice19.csproj",
         "projectName": "Practice19",
-        "projectPath": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\Практика\\Practice19\\Practice19\\Practice19.csproj",
+        "projectPath": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\Practice\\Practice19\\Practice19\\Practice19.csproj",
         "packagesPath": "C:\\Users\\Freakovv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\Практика\\Practice19\\Practice19\\obj\\",
+        "outputPath": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\Practice\\Practice19\\Practice19\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
