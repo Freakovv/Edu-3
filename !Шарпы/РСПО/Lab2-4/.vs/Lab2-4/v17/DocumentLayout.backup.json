@@ -1,62 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\",
+  "WorkspaceRootPath": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC321A18-3A98-413F-8AE1-693963D09699}|Part3\\Part3.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC321A18-3A98-413F-8AE1-693963D09699}|Part3\\Part3.csproj|solutionrelative:part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC321A18-3A98-413F-8AE1-693963D09699}|Part3\\Part3.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\part3\\order\u0026line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC321A18-3A98-413F-8AE1-693963D09699}|Part3\\Part3.csproj|solutionrelative:part3\\order\u0026line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\order\u0026line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\order\u0026line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\specialitemdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\specialitemdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\holidaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\holidaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\discountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\discountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\discountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\discountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\highorderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\highorderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\highorderprivilegeddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\highorderprivilegeddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\orderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\orderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\highorderprivilegeddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\highorderprivilegeddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\privilegedcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\privilegedcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\highorderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\highorderamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C8929B-CA60-4D3D-AFF3-A56D1648901A}|Lab3\\Lab3.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C8929B-CA60-4D3D-AFF3-A56D1648901A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\discountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\discountprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\discountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\discountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u0440\u0441\u043F\u043E\\lab2-4\\lab2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850D5A5-4523-4BDF-85A6-6DCB4F613094}|Lab2\\Lab2.csproj|solutionrelative:lab2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,188 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HighOrderAmountDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderAmountDiscount.cs",
-              "RelativeDocumentMoniker": "Lab2\\HighOrderAmountDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderAmountDiscount.cs",
-              "RelativeToolTip": "Lab2\\HighOrderAmountDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:02:47.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order\u0026Line.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Order\u0026Line.cs",
-              "RelativeDocumentMoniker": "Lab2\\Order\u0026Line.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Order\u0026Line.cs",
-              "RelativeToolTip": "Lab2\\Order\u0026Line.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAcwCoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:01:50.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Item.cs",
-              "RelativeDocumentMoniker": "Lab2\\Item.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Item.cs",
-              "RelativeToolTip": "Lab2\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "Order\u0026Line.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Part3\\Order\u0026Line.cs",
+              "RelativeDocumentMoniker": "Part3\\Order\u0026Line.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Part3\\Order\u0026Line.cs",
+              "RelativeToolTip": "Part3\\Order\u0026Line.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswDMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:02:21.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DiscountProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountProcessor.cs",
-              "RelativeDocumentMoniker": "Lab2\\DiscountProcessor.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountProcessor.cs",
-              "RelativeToolTip": "Lab2\\DiscountProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:01:00.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DiscountBase.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountBase.cs",
-              "RelativeDocumentMoniker": "Lab2\\DiscountBase.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountBase.cs",
-              "RelativeToolTip": "Lab2\\DiscountBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:00:46.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Customer.cs",
-              "RelativeDocumentMoniker": "Lab2\\Customer.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Customer.cs",
-              "RelativeToolTip": "Lab2\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:02:01.284Z",
+              "WhenOpened": "2025-03-01T06:03:22.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Program.cs",
-              "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwDAAAABbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Part3\\Program.cs",
+              "RelativeDocumentMoniker": "Part3\\Program.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Part3\\Program.cs",
+              "RelativeToolTip": "Part3\\Program.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAgwJcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:00:36.672Z",
+              "WhenOpened": "2025-03-01T05:32:43.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HolidayDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HolidayDiscount.cs",
-              "RelativeDocumentMoniker": "Lab2\\HolidayDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HolidayDiscount.cs",
-              "RelativeToolTip": "Lab2\\HolidayDiscount.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:06:39.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "IDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\IDiscount.cs",
               "RelativeDocumentMoniker": "Lab2\\IDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\IDiscount.cs",
               "RelativeToolTip": "Lab2\\IDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:21:08.461Z",
+              "WhenOpened": "2025-03-01T05:24:04.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SpecialItemDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\SpecialItemDiscount.cs",
-              "RelativeDocumentMoniker": "Lab2\\SpecialItemDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\SpecialItemDiscount.cs",
-              "RelativeToolTip": "Lab2\\SpecialItemDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:08:00.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "HighOrderPrivilegedDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderPrivilegedDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderPrivilegedDiscount.cs",
               "RelativeDocumentMoniker": "Lab2\\HighOrderPrivilegedDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderPrivilegedDiscount.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderPrivilegedDiscount.cs",
               "RelativeToolTip": "Lab2\\HighOrderPrivilegedDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:05:31.318Z",
+              "WhenOpened": "2025-03-01T05:24:04.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderAmountDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\OrderAmountDiscount.cs",
-              "RelativeDocumentMoniker": "Lab2\\OrderAmountDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\OrderAmountDiscount.cs",
-              "RelativeToolTip": "Lab2\\OrderAmountDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HighOrderAmountDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderAmountDiscount.cs",
+              "RelativeDocumentMoniker": "Lab2\\HighOrderAmountDiscount.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\HighOrderAmountDiscount.cs",
+              "RelativeToolTip": "Lab2\\HighOrderAmountDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:08:51.157Z",
+              "WhenOpened": "2025-03-01T05:24:04.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PrivilegedCustomerDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\PrivilegedCustomerDiscount.cs",
-              "RelativeDocumentMoniker": "Lab2\\PrivilegedCustomerDiscount.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\PrivilegedCustomerDiscount.cs",
-              "RelativeToolTip": "Lab2\\PrivilegedCustomerDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DiscountProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountProcessor.cs",
+              "RelativeDocumentMoniker": "Lab2\\DiscountProcessor.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountProcessor.cs",
+              "RelativeToolTip": "Lab2\\DiscountProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:07:12.316Z",
+              "WhenOpened": "2025-03-01T05:24:04.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab3\\Program.cs",
-              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab3\\Program.cs",
-              "RelativeToolTip": "Lab3\\Program.cs",
+              "DocumentIndex": 6,
+              "Title": "DiscountBase.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountBase.cs",
+              "RelativeDocumentMoniker": "Lab2\\DiscountBase.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\DiscountBase.cs",
+              "RelativeToolTip": "Lab2\\DiscountBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:24:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab2\\Customer.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u0420\u0421\u041F\u041E\\Lab2-4\\Lab2\\Customer.cs",
+              "RelativeToolTip": "Lab2\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:18:02.734Z",
+              "WhenOpened": "2025-03-01T05:24:04.46Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\bin\Debug\net8.0\Part3.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\bin\Debug\net8.0\Part3.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\bin\Debug\net8.0\Part3.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\bin\Debug\net8.0\Part3.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\bin\Debug\net8.0\Part3.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\refint\Part3.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\Part3.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\РСПО\Lab2-4\Part3\obj\Debug\net8.0\ref\Part3.dll
