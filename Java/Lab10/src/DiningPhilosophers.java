@@ -1,99 +1,97 @@
 import java.util.Random;
-
-class Fork {
-    private boolean isTaken = false;
-
-    public synchronized boolean pickUp() {
-        if (!isTaken) {
-            isTaken = true;
-            return true;
-        }
-        return false;
-    }
-
-    public synchronized void putDown() {
-        isTaken = false;
-    }
-}
-
-class Philosopher extends Thread {
-    private final int id;
-    private final Fork leftFork;
-    private final Fork rightFork;
-    private final Random random = new Random();
-    private final long startTime;
-    private final long duration;
-
-    public Philosopher(int id, Fork leftFork, Fork rightFork, long startTime, long duration) {
-        this.id = id;
-        this.leftFork = leftFork;
-        this.rightFork = rightFork;
-        this.startTime = startTime;
-        this.duration = duration;
-    }
-
-    private void think() throws InterruptedException {
-        System.out.println("Философ " + id + " размышляет...");
-        Thread.sleep(random.nextInt(1000));
-    }
-
-    private void eat() throws InterruptedException {
-        System.out.println("Философ " + id + " ест...");
-        Thread.sleep(random.nextInt(1000));
-    }
-
-    @Override
-    public void run() {
-        try {
-            while (System.currentTimeMillis() - startTime < duration) {
-                think();
-
-                synchronized (leftFork) {
-                    if (!leftFork.pickUp()) continue;
-                    synchronized (rightFork) {
-                        if (!rightFork.pickUp()) {
-                            leftFork.putDown();
-                            continue;
-                        }
-
-                        eat();
-                        rightFork.putDown();
-                    }
-                    leftFork.putDown();
-                }
-            }
-        } catch (InterruptedException e) {
-            Thread.currentThread().interrupt();
-        }
-        System.out.println("Философ " + id + " завершил выполнение.");
-    }
-}
+import java.util.concurrent.*;
 
 public class DiningPhilosophers {
-    public static void main(String[] args) {
-        int philosophersCount = 5;
-        long duration = 5000; // Время работы в миллисекундах
-        long startTime = System.currentTimeMillis();
+    private static final int NUM_PHILOSOPHERS = 5;
+    private static final int MAX_MEALS = 2; // Ограничение
+    private static final Semaphore eatingLimit = new Semaphore(2);
+    private static final Fork[] forks = new Fork[NUM_PHILOSOPHERS];
+    private static final Random random = new Random();
 
-        Fork[] forks = new Fork[philosophersCount];
-        for (int i = 0; i < philosophersCount; i++) {
+    private static final String RED = "\u001B[31m";
+    private static final String GREEN = "\u001B[32m";
+    private static final String RESET = "\u001B[0m";
+
+    public static void main(String[] args) {
+        for (int i = 0; i < NUM_PHILOSOPHERS; i++) {
             forks[i] = new Fork();
         }
 
-        Philosopher[] philosophers = new Philosopher[philosophersCount];
-        for (int i = 0; i < philosophersCount; i++) {
-            philosophers[i] = new Philosopher(i, forks[i], forks[(i + 1) % philosophersCount], startTime, duration);
-            philosophers[i].start();
+        ExecutorService executorService = Executors.newFixedThreadPool(NUM_PHILOSOPHERS);
+
+        for (int i = 0; i < NUM_PHILOSOPHERS; i++) {
+            final int philosopherId = i;
+            executorService.execute(() -> {
+                int mealsEaten = 0;
+                while (mealsEaten < MAX_MEALS) {
+                    try {
+                        think(philosopherId);
+                        if (tryEat(philosopherId)) {
+                            eat(philosopherId, ++mealsEaten);
+                            putForks(philosopherId);
+                        }
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                    }
+                }
+                System.out.println("Философ " + philosopherId + " завершил еду.");
+            });
         }
 
-        for (Philosopher philosopher : philosophers) {
-            try {
-                philosopher.join();
-            } catch (InterruptedException e) {
-                Thread.currentThread().interrupt();
+        executorService.shutdown();
+        try {
+            executorService.awaitTermination(1, TimeUnit.MINUTES);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("Все философы закончили есть.");
+    }
+
+    private static void think(int id) throws InterruptedException {
+        System.out.println("Философ " + id + " размышляет...");
+        Thread.sleep(random.nextInt(3000) + 1000);
+    }
+
+
+    private static boolean tryEat(int id) throws InterruptedException {
+        Fork leftFork = forks[id];
+        Fork rightFork = forks[(id + 1) % NUM_PHILOSOPHERS];
+
+        synchronized (leftFork) {
+            if (!leftFork.pickUp()) {
+                Thread.sleep(random.nextInt(500) + 500);
+                return false;
+            }
+            synchronized (rightFork) {
+                if (!rightFork.pickUp()) {
+                    leftFork.putDown();
+                    Thread.sleep(random.nextInt(500) + 500);
+                    return false;
+                }
+                eatingLimit.acquire();
+                return true;
             }
         }
+    }
 
-        System.out.println("Завершение симуляции.");
+
+
+
+
+    private static void eat(int id, int mealsEaten) throws InterruptedException {
+        System.out.println(RED + "Философ " + id + " ест... (приём пищи #" + mealsEaten + ")" + RESET);
+        Thread.sleep(5000);
+    }
+
+    private static void putForks(int id) {
+        Fork leftFork = forks[id];
+        Fork rightFork = forks[(id + 1) % NUM_PHILOSOPHERS];
+
+        rightFork.putDown();
+        leftFork.putDown();
+        eatingLimit.release();
+
+        System.out.println(GREEN + "Философ " + id + " закончил есть и положил вилки." + RESET);
     }
 }
