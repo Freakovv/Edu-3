@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>Формы HTML</title>
+  </head>
+
+  <body>
+    <form action="mailto:misha.simanovich@mail.ru" method="post">
+      <fieldset>
+        <b>Заполните ваши данные:</b> <br /><br />
+        Имя:
+        <input type="text" name="name" maxlength="25" size="20" value="" />
+        <br /><br />
+      </fieldset>
+      <fieldset>
+        <b>Выберите любимый цвет:</b><br />
+        <label>
+          <input type="radio" name="answer" value="#F4F090" /> Желтый </label
+        ><br />
+        <label>
+          <input type="radio" name="answer" value="#80ECF3" /> Голубой </label
+        ><br />
+        <label>
+          <input type="radio" name="answer" value="#F3ACC5" /> Розовый </label
+        ><br />
+        <label>
+          <input type="radio" name="answer" value="#A7F4AB" /> Зеленый </label
+        ><br />
+      </fieldset>
+      <fieldset>
+        <b>Написал тут что-то хорошее!</b><br />
+        <input type="reset" value="Сбросить данные" />
+        <input type="submit" value="Отправить данные" />
+      </fieldset>
+    </form>
+  </body>
+</html>

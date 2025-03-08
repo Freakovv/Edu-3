@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Тест по HTML-разметке</title>
+  </head>
+  <body>
+    <marquee behavior="alternate" direction="right" scrollamount="15"
+      >Тест по HTML-разметке</marquee
+    >
+    <form action="reg.html" method="get">
+      <table align="center">
+        <tr>
+          <td align="left">
+            <br />Имя <br />
+            <input
+              type="text"
+              name="first_name"
+              id="first_name"
+              maxlength="3"
+            />
+            <br /><br />
+            Фамилия <br />
+            <input type="text" name="last_name" id="last_name" maxlength="20" />
+            <br /><br />
+            Курс <br />
+            <input type="number" name="course" id="course" /> <br /><br />
+            Группа <br />
+            <input type="number" name="group" id="group" /> <br /><br />
+            Дата <br />
+            <input type="date" name="date" id="date" /> <br /><br />
+          </td>
+        </tr>
+      </table>
+
+      <br />
+      <div align="center">
+        <b>Тестовые вопросы</b>
+        <table align="center">
+          <tr>
+            <td align="left">
+              <br />
+              <!-- b -->
+              1. Что означает аббревиатура HTML?
+              <br />
+              <input type="radio" name="q1" value="a" /> a) Hyper Trainer Markup
+              Language <br />
+              <input type="radio" name="q1" value="b" /> b) Hyper Text Markup
+              Language <br />
+              <input type="radio" name="q1" value="c" /> c) Home Tool Markup
+              Language <br />
+              <input type="radio" name="q1" value="d" /> d) Hyperlink and Text
+              Markup Language
+              <br />
+              <br />
+              <!-- b -->
+              2. Какой тег используется для создания заголовка 1-го уровня?
+              <br />
+              <input type="radio" name="q2" value="a" /> a) &lt;heading&gt;
+              <br />
+              <input type="radio" name="q2" value="b" /> b) &lt;h1&gt; <br />
+              <input type="radio" name="q2" value="c" /> c) &lt;head&gt; <br />
+              <input type="radio" name="q2" value="d" /> d) &lt;title&gt; <br />
+              <br />
+              <br />
+              <!-- b -->
+              3. Какой тег используется для создания ссылки? <br />
+              <input type="radio" name="q3" value="a" /> a) &lt;link&gt; <br />
+              <input type="radio" name="q3" value="b" /> b) &lt;a&gt; <br />
+              <input type="radio" name="q3" value="c" /> c) &lt;href&gt; <br />
+              <input type="radio" name="q3" value="d" /> d) &lt;src&gt; <br />
+              <br />
+              <br />
+              <!-- c -->
+              4. Выберите корректный HTML-документ: <br />
+              <input type="radio" name="q4" value="a" /> a) <br />&lt;html&gt;
+              <br />
+              &lt;body&gt;<br />
+              &lt;h1&gt;Привет!&lt;/h1&gt; <br />
+              &lt;/body&gt;<br />
+              &lt;/html&gt;
+              <br />
+
+              <input type="radio" name="q4" value="b" /> b) <br />
+              &lt;head&gt;<br />
+              &lt;title&gt;<br />Привет!<br />&lt;/title&gt;<br />
+              &lt;/head&gt;<br />
+              &lt;body&gt;<br />
+              &lt;h1&gt;Привет!&lt;/h1&gt;<br />
+              &lt;/body&gt;
+              <br />
+              <br />
+              <!-- b -->
+              5. Какой тег используется для вставки изображения? <br />
+              <input type="radio" name="q5" value="a" /> a) &lt;image&gt; <br />
+              <input type="radio" name="q5" value="b" /> b) &lt;img&gt; <br />
+              <input type="radio" name="q5" value="c" /> c) &lt;src&gt; <br />
+              <input type="radio" name="q5" value="d" /> d) &lt;pic&gt; <br />
+              <br />
+              <br />
+              <!-- b -->
+              6. Как правильно создать нумерованный список? <br />
+              <input type="radio" name="q6" value="a" /> a) <br />
+              &lt;ul&gt;<br />
+              &lt;li&gt;Элемент 1&lt;/li&gt;<br />
+              &lt;li&gt;Элемент 2&lt;/li&gt;<br />
+              &lt;/ul&gt; <br />
+              <input type="radio" name="q6" value="b" /> b) <br />
+              &lt;ol&gt;<br />
+              &lt;li&gt;Элемент 1&lt;/li&gt;<br />
+              &lt;li&gt;Элемент 2&lt;/li&gt;<br />
+              &lt;/ol&gt; <br />
+              <br />
+              <br />
+              <!-- b -->
+              7. Что делает атрибут `alt` в теге &lt;img&gt;? <br />
+              <input type="radio" name="q7" value="a" /> a) Устанавливает высоту
+              изображения <br />
+              <input type="radio" name="q7" value="b" /> b) Добавляет
+              альтернативный текст, если изображение не загрузилось <br />
+              <input type="radio" name="q7" value="c" /> c) Меняет размер
+              изображения <br />
+              <input type="radio" name="q7" value="d" /> d) Указывает путь к
+              изображению <br />
+              <br />
+              <br />
+              <!-- b -->
+              8. Как создать гиперссылку, которая откроется в новой вкладке?
+              <br />
+              <input type="radio" name="q8" value="a" /> a) &lt;a
+              href="https://example.com" new&gt; <br />
+              <input type="radio" name="q8" value="b" /> b) &lt;a
+              href="https://example.com" target="_blank"&gt; <br />
+              <input type="radio" name="q8" value="c" /> c) &lt;a
+              url="https://example.com" blank&gt; <br />
+              <input type="radio" name="q8" value="d" /> d) &lt;a
+              href="https://example.com" window="new"&gt; <br />
+              <br />
+              <br />
+              <!-- a -->
+              9. Какой тег используется для создания таблицы? <br />
+              <input type="radio" name="q9" value="a" /> a) &lt;table&gt; <br />
+              <input type="radio" name="q9" value="b" /> b) &lt;tab&gt; <br />
+              <input type="radio" name="q9" value="c" /> c) &lt;tr&gt; <br />
+              <input type="radio" name="q9" value="d" /> d) &lt;td&gt; <br />
+              <br />
+              <br />
+              <!-- b -->
+              10. Какой атрибут используется для объединения ячеек в строке
+              таблицы? <br />
+              <input type="radio" name="q10" value="a" /> a) merge <br />
+              <input type="radio" name="q10" value="b" /> b) colspan <br />
+              <input type="radio" name="q10" value="c" /> c) rowspan <br />
+              <input type="radio" name="q10" value="d" /> d) combine <br />
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <br />
+      <div align="center">
+        <button type="reset">Очистить</button>
+        <button type="submit">Отправить</button>
+      </div>
+    </form>
+  </body>
+</html>
