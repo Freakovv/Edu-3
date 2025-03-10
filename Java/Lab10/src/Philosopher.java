@@ -9,6 +9,8 @@ class Philosopher implements Runnable {
     private final Random random = new Random();
     private int mealsEaten = 0;
 
+
+
     public Philosopher(int id, Fork leftFork, Fork rightFork, Semaphore eatingLimit) {
         this.id = id;
         this.leftFork = leftFork;

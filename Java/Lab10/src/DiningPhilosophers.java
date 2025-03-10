@@ -3,14 +3,16 @@ import java.util.concurrent.*;
 
 public class DiningPhilosophers {
     private static final int NUM_PHILOSOPHERS = 5;
-    private static final int MAX_MEALS = 2; // Ограничение
+    private static final int MAX_MEALS = 5; // Ограничение
     private static final Semaphore eatingLimit = new Semaphore(2);
     private static final Fork[] forks = new Fork[NUM_PHILOSOPHERS];
     private static final Random random = new Random();
 
     private static final String RED = "\u001B[31m";
     private static final String GREEN = "\u001B[32m";
-    private static final String RESET = "\u001B[0m";
+    private static final String DEF = "\u001B[0m";
+
+    static long startTime = System.currentTimeMillis();
 
     public static void main(String[] args) {
         for (int i = 0; i < NUM_PHILOSOPHERS; i++) {
@@ -22,25 +24,32 @@ public class DiningPhilosophers {
         for (int i = 0; i < NUM_PHILOSOPHERS; i++) {
             final int philosopherId = i;
             executorService.execute(() -> {
-                int mealsEaten = 0;
-                while (mealsEaten < MAX_MEALS) {
-                    try {
-                        think(philosopherId);
-                        if (tryEat(philosopherId)) {
-                            eat(philosopherId, ++mealsEaten);
-                            putForks(philosopherId);
+                        long maxDuration = 50000;
+                        int mealsEaten = 0;
+                        while (true) {
+                            if (System.currentTimeMillis() - startTime > maxDuration) {
+                                System.out.println("Время философа " + philosopherId + " на покушать закончилось");
+                                break;
+                            }
+                            try {
+                                think(philosopherId);
+                                if (tryEat(philosopherId)) {
+                                    eat(philosopherId, ++mealsEaten);
+                                    putForks(philosopherId);
+                                }
+                            } catch (InterruptedException e) {
+                                Thread.currentThread().interrupt();
+                            }
+                            System.out.println("Философ " + philosopherId + " завершил еду.");
                         }
-                    } catch (InterruptedException e) {
-                        Thread.currentThread().interrupt();
-                    }
-                }
-                System.out.println("Философ " + philosopherId + " завершил еду.");
-            });
+                        ;
+                    });
+
         }
 
         executorService.shutdown();
         try {
-            executorService.awaitTermination(1, TimeUnit.MINUTES);
+            executorService.awaitTermination(50, TimeUnit.MINUTES);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -50,7 +59,7 @@ public class DiningPhilosophers {
 
     private static void think(int id) throws InterruptedException {
         System.out.println("Философ " + id + " размышляет...");
-        Thread.sleep(random.nextInt(3000) + 1000);
+        Thread.sleep(random.nextInt(500) + 500);
     }
 
 
@@ -80,7 +89,7 @@ public class DiningPhilosophers {
 
 
     private static void eat(int id, int mealsEaten) throws InterruptedException {
-        System.out.println(RED + "Философ " + id + " ест... (приём пищи #" + mealsEaten + ")" + RESET);
+        System.out.println(RED + "Философ " + id + " ест... (приём пищи #" + mealsEaten + ")" + DEF);
         Thread.sleep(5000);
     }
 
@@ -92,6 +101,6 @@ public class DiningPhilosophers {
         leftFork.putDown();
         eatingLimit.release();
 
-        System.out.println(GREEN + "Философ " + id + " закончил есть и положил вилки." + RESET);
+        System.out.println(GREEN + "Философ " + id + " закончил есть и положил вилки." + DEF);
     }
 }
