@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f45c3d-e8ec-4b3e-bebe-14e5178472b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/FileContentIndex/6200d7be-5e2f-4023-a735-ce689ec26e92.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/DocumentLayout.backup.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/.vs/Lab21/v17/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/obj/Debug/net8.0/Lab21.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/obj/Debug/net8.0/Lab21.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/obj/Debug/net8.0/Lab21.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../!Шарпы/КПиЯП/Lab21/Lab21/obj/Debug/net8.0/Lab21.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiningPhilosophers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Philosopher.java" afterDir="false" />
-    </list>
+    <list default="true" id="52f45c3d-e8ec-4b3e-bebe-14e5178472b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +85,7 @@
       <workItem from="1740942020137" duration="3500000" />
       <workItem from="1741586298845" duration="40000" />
       <workItem from="1741586361943" duration="20000" />
+      <workItem from="1741586503511" duration="851000" />
     </task>
     <servers />
   </component>
