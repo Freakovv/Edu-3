@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sWaUVNLap5s=",
+  "dgSpecHash": "84w8HzLQ+5E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\misha\\OneDrive\\Desktop\\Edu-3\\!Шарпы\\TestWPF\\HandyControlsTest\\HandyControlsTest\\HandyControlsTest.csproj",
+  "projectFilePath": "C:\\Users\\Freakovv\\Desktop\\учеба\\Edu-3\\!Шарпы\\TestWPF\\HandyControlsTest\\HandyControlsTest\\HandyControlsTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\misha\\.nuget\\packages\\extended.wpf.toolkit\\4.7.25103.5738\\extended.wpf.toolkit.4.7.25103.5738.nupkg.sha512",
-    "C:\\Users\\misha\\.nuget\\packages\\handycontrols\\3.5.3\\handycontrols.3.5.3.nupkg.sha512",
-    "C:\\Users\\misha\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
-    "C:\\Users\\misha\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512"
+    "C:\\Users\\Freakovv\\.nuget\\packages\\extended.wpf.toolkit\\4.7.25103.5738\\extended.wpf.toolkit.4.7.25103.5738.nupkg.sha512",
+    "C:\\Users\\Freakovv\\.nuget\\packages\\handycontrols\\3.5.3\\handycontrols.3.5.3.nupkg.sha512",
+    "C:\\Users\\Freakovv\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\Freakovv\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512"
   ],
   "logs": [
     {
