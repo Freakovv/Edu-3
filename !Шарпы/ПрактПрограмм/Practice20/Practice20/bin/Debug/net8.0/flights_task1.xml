@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAeroflot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aeroflot>
+    <Destination>Минск</Destination>
+    <DepartureDate>2025-03-15T14:30:00</DepartureDate>
+    <FlightNumber>101</FlightNumber>
+    <AirType>Boeing 737</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Лондон</Destination>
+    <DepartureDate>2025-03-18T12:00:00</DepartureDate>
+    <FlightNumber>107</FlightNumber>
+    <AirType>Embraer E190</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Москва</Destination>
+    <DepartureDate>2025-03-16T10:15:00</DepartureDate>
+    <FlightNumber>203</FlightNumber>
+    <AirType>Airbus A320</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Париж</Destination>
+    <DepartureDate>2025-03-17T18:45:00</DepartureDate>
+    <FlightNumber>305</FlightNumber>
+    <AirType>Boeing 777</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Рим</Destination>
+    <DepartureDate>2025-03-21T15:20:00</DepartureDate>
+    <FlightNumber>309</FlightNumber>
+    <AirType>Airbus A330</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Нью-Йорк</Destination>
+    <DepartureDate>2025-03-20T23:00:00</DepartureDate>
+    <FlightNumber>405</FlightNumber>
+    <AirType>Boeing 787</AirType>
+  </Aeroflot>
+  <Aeroflot>
+    <Destination>Берлин</Destination>
+    <DepartureDate>2025-03-19T09:30:00</DepartureDate>
+    <FlightNumber>501</FlightNumber>
+    <AirType>Airbus A321</AirType>
+  </Aeroflot>
+</ArrayOfAeroflot>

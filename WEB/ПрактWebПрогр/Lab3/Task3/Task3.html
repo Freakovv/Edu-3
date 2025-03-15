@@ -15,6 +15,7 @@
           <td align="left">
             <br />Имя <br />
             <input
+              required
               type="text"
               name="first_name"
               id="first_name"
@@ -22,14 +23,22 @@
             />
             <br /><br />
             Фамилия <br />
-            <input type="text" name="last_name" id="last_name" maxlength="20" />
+            <input
+              required
+              type="text"
+              name="last_name"
+              id="last_name"
+              maxlength="20"
+            />
             <br /><br />
             Курс <br />
-            <input type="number" name="course" id="course" /> <br /><br />
+            <input required type="number" name="course" id="course" />
+            <br /><br />
             Группа <br />
-            <input type="number" name="group" id="group" /> <br /><br />
+            <input required type="number" name="group" id="group" />
+            <br /><br />
             Дата <br />
-            <input type="date" name="date" id="date" /> <br /><br />
+            <input required type="date" name="date" id="date" /> <br /><br />
           </td>
         </tr>
       </table>

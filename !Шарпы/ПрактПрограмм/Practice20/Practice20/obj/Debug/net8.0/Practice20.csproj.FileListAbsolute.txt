@@ -1,0 +1,15 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\bin\Debug\net8.0\Practice20.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\bin\Debug\net8.0\Practice20.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\bin\Debug\net8.0\Practice20.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\bin\Debug\net8.0\Practice20.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\bin\Debug\net8.0\Practice20.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\refint\Practice20.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\Practice20.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice20\Practice20\obj\Debug\net8.0\ref\Practice20.dll

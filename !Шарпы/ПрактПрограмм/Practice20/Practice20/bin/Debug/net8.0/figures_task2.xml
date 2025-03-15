@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Rectangle">
+    <Width>10</Width>
+    <Height>5</Height>
+  </Figure>
+  <Figure xsi:type="Parallelepiped">
+    <Width>10</Width>
+    <Height>5</Height>
+    <Depth>3</Depth>
+  </Figure>
+</ArrayOfFigure>

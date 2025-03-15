@@ -1,0 +1,44 @@
+[
+  {
+    "Destination": "\u041C\u0438\u043D\u0441\u043A",
+    "DepartureDate": "2025-03-15T14:30:00",
+    "FlightNumber": 101,
+    "AirType": "Boeing 737"
+  },
+  {
+    "Destination": "\u041B\u043E\u043D\u0434\u043E\u043D",
+    "DepartureDate": "2025-03-18T12:00:00",
+    "FlightNumber": 107,
+    "AirType": "Embraer E190"
+  },
+  {
+    "Destination": "\u041C\u043E\u0441\u043A\u0432\u0430",
+    "DepartureDate": "2025-03-16T10:15:00",
+    "FlightNumber": 203,
+    "AirType": "Airbus A320"
+  },
+  {
+    "Destination": "\u041F\u0430\u0440\u0438\u0436",
+    "DepartureDate": "2025-03-17T18:45:00",
+    "FlightNumber": 305,
+    "AirType": "Boeing 777"
+  },
+  {
+    "Destination": "\u0420\u0438\u043C",
+    "DepartureDate": "2025-03-21T15:20:00",
+    "FlightNumber": 309,
+    "AirType": "Airbus A330"
+  },
+  {
+    "Destination": "\u041D\u044C\u044E-\u0419\u043E\u0440\u043A",
+    "DepartureDate": "2025-03-20T23:00:00",
+    "FlightNumber": 405,
+    "AirType": "Boeing 787"
+  },
+  {
+    "Destination": "\u0411\u0435\u0440\u043B\u0438\u043D",
+    "DepartureDate": "2025-03-19T09:30:00",
+    "FlightNumber": 501,
+    "AirType": "Airbus A321"
+  }
+]
