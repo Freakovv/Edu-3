@@ -1,0 +1,30 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+}
+
+div {
+  text-align: justify;
+  max-width: 44%;
+  margin-bottom: 25px;
+  text-indent: 18px;
+}
+
+.red-text {
+  color: red;
+}
+
+.blue-italic-text {
+  font-style: italic;
+  color: blue;
+}
+
+h1 {
+  color: mediumblue;
+}
+
+.small-text {
+  font-size: 17px;
+}

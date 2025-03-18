@@ -1,0 +1,24 @@
+.first-h1 {
+  color: Red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ol {
+  color: red;
+  font-size: 18px;
+}
+
+.bold-text {
+  font-style: unset;
+}
+
+b {
+  font-size: 20px;
+}
+
+.css {
+  font-style: italic;
+  color: blue;
+}
