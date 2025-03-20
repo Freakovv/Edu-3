@@ -1,0 +1,23 @@
+p {
+  font-size: 16pt;
+  color: #ffcc00;
+  margin-left: 5px;
+}
+
+h1 {
+  background-color: #369;
+  color: white;
+  text-align: center;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h2 {
+  text-indent: 5px;
+}
+
+.italic-text {
+  font-style: italic;
+}
