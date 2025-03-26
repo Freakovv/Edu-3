@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{409D8717-2444-482E-8400-FE5D544A3F64}|entityTest\\entityTest.csproj|solutionrelative:entitytest\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409D8717-2444-482E-8400-FE5D544A3F64}|entityTest\\entityTest.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\testwpf\\entitytest\\entitytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{409D8717-2444-482E-8400-FE5D544A3F64}|entityTest\\entityTest.csproj|C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\TestWPF\\entityTest\\entitytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{409D8717-2444-482E-8400-FE5D544A3F64}|entityTest\\entityTest.csproj|solutionrelative:entitytest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "entityTest\\Data\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:10:24.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T08:10:24.417Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\TestWPF\\entityTest\\entityTest\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "entityTest\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:57:33.779Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-03-22T07:57:33.779Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "entityTest\\Data\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:01:39.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T08:01:39.501Z"
             }
           ]
         }
