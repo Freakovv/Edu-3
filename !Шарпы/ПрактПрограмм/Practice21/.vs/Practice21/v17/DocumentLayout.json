@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u043F\u0440\u0430\u043A\u0442\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\practice21\\practice21\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|solutionrelative:practice21\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u043F\u0440\u0430\u043A\u0442\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\practice21\\practice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|solutionrelative:practice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u043F\u0440\u0430\u043A\u0442\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\practice21\\practice21\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|solutionrelative:practice21\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u043F\u0440\u0430\u043A\u0442\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\practice21\\practice21\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|solutionrelative:practice21\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|c:\\users\\freakovv\\desktop\\\u0443\u0447\u0435\u0431\u0430\\edu-3\\!\u0448\u0430\u0440\u043F\u044B\\\u043F\u0440\u0430\u043A\u0442\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\practice21\\practice21\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD3977-B576-48E0-B634-F16BD74B20FA}|Practice21\\Practice21.csproj|solutionrelative:practice21\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task4.cs",
+              "RelativeDocumentMoniker": "Practice21\\Task4.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task4.cs",
+              "RelativeToolTip": "Practice21\\Task4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:17:58.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task1.cs",
+              "RelativeDocumentMoniker": "Practice21\\Task1.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task1.cs",
+              "RelativeToolTip": "Practice21\\Task1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:41:39.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task2.cs",
+              "RelativeDocumentMoniker": "Practice21\\Task2.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task2.cs",
+              "RelativeToolTip": "Practice21\\Task2.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwMkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:28:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task3.cs",
+              "RelativeDocumentMoniker": "Practice21\\Task3.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Task3.cs",
+              "RelativeToolTip": "Practice21\\Task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:36:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Program.cs",
+              "RelativeDocumentMoniker": "Practice21\\Program.cs",
+              "ToolTip": "C:\\Users\\Freakovv\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\Edu-3\\!\u0428\u0430\u0440\u043F\u044B\\\u041F\u0440\u0430\u043A\u0442\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\\Practice21\\Practice21\\Program.cs",
+              "RelativeToolTip": "Practice21\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwH4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:56:08.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

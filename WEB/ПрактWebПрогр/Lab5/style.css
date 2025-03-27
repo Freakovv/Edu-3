@@ -1,0 +1,51 @@
+.first-div p::first-letter {
+  font-style: italic;
+  font-size: 25px;
+  color: red;
+}
+
+.first-div p::first-line {
+  font-style: italic;
+  color: red;
+}
+.first-div p {
+  font-size: 18px;
+}
+.first-div p::selection {
+  background-color: green;
+}
+
+#def::placeholder {
+  color: green;
+}
+
+#backgroun-green::placeholder {
+  color: white;
+  background-color: green;
+}
+
+#first,
+#second,
+#third {
+  margin: 5px;
+  border: 2px solid gray;
+  outline: none;
+}
+
+#first:focus {
+  color: green;
+  border-color: green;
+}
+
+#second:focus {
+  color: yellow;
+  border-color: yellow;
+}
+
+#third:focus {
+  color: black;
+  border-color: black;
+}
+
+.second-div p {
+}
