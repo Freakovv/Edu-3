@@ -1,0 +1,30 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20pt;
+  letter-spacing: 10pt;
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  text-indent: 13pt;
+  text-align: justify;
+}
+
+ul {
+  list-style: none;
+  line-height: 1.5;
+  padding-left: 24px;
+}
+
+ul li {
+  background: url("kvadrat.jpg") left center/16px 16px no-repeat;
+  padding-left: 20px;
+}
+
+body {
+  background-image: url(image.png);
+  background-size: cover;
+}
