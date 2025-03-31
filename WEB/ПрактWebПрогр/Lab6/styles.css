@@ -1,0 +1,103 @@
+добавь это в мой css код .task1 {
+  list-style-type: disc;
+  color: blue;
+}
+
+.task2 {
+  width: 250px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  border-spacing: 5px;
+}
+
+.task2 td {
+  border: 1px solid blue;
+  padding: 7px;
+}
+
+.task2 a {
+  text-decoration: none;
+  color: blue;
+  display: block;
+}
+
+.task2 a:hover {
+  background-color: #f5f5f5;
+}
+
+.task3 {
+  width: 250px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  border-spacing: 5px;
+}
+
+.task3 td {
+  background-color: #484848;
+  padding: 7px;
+}
+
+.task3 a {
+  text-decoration: none;
+  color: white;
+}
+
+.task3 a:hover {
+  background-color: white;
+  color: #484848;
+  border-color: white;
+}
+
+.task4 {
+  width: 250px;
+  height: 200px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  border-spacing: 5px;
+  text-indent: 10px;
+}
+
+.task4 td {
+  border: 1px solid #0081e7;
+  background-color: #0081e7;
+  position: relative;
+  overflow: hidden;
+}
+
+.task4 a {
+  text-decoration: none;
+  color: white;
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin-top: 10px;
+}
+
+.task4 td:hover {
+  background-color: white;
+  cursor: pointer;
+}
+.task4 td:hover a {
+  color: blue;
+}
+
+.task4 td:hover::after {
+  content: "✈";
+  position: absolute;
+  right: -20px;
+  top: 45%;
+  font-size: 20px;
+  transform: translateY(-50%);
+  animation: fly 0.8s forwards;
+}
+
+@keyframes fly {
+  0% {
+    right: -20px;
+    opacity: 0;
+  }
+  100% {
+    right: 10px;
+    opacity: 1;
+  }
+}
