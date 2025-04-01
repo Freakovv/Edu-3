@@ -20,8 +20,7 @@ ul {
 }
 
 ul li {
-  background: url("kvadrat.jpg") left center/16px 16px no-repeat;
-  padding-left: 20px;
+  list-style-image: url("kvadrat.jpg");
 }
 
 body {
