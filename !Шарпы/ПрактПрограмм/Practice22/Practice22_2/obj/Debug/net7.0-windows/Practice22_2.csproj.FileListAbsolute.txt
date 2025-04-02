@@ -1,0 +1,17 @@
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\bin\Debug\net7.0-windows\Practice22_2.exe
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\bin\Debug\net7.0-windows\Practice22_2.deps.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\bin\Debug\net7.0-windows\Practice22_2.runtimeconfig.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\bin\Debug\net7.0-windows\Practice22_2.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\bin\Debug\net7.0-windows\Practice22_2.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.Form1.resources
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.csproj.GenerateResource.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.AssemblyInfoInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.AssemblyInfo.cs
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.csproj.CoreCompileInputs.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.sourcelink.json
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\refint\Practice22_2.dll
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.pdb
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\Practice22_2.genruntimeconfig.cache
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice22\Practice22_2\obj\Debug\net7.0-windows\ref\Practice22_2.dll
