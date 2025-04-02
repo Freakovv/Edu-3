@@ -1,4 +1,4 @@
-добавь это в мой css код .task1 {
+.task1 {
   list-style-type: disc;
   color: blue;
 }
@@ -83,6 +83,7 @@
 
 .task4 td:hover::after {
   content: "✈";
+  color: blue;
   position: absolute;
   right: -20px;
   top: 45%;
@@ -100,4 +101,82 @@
     right: 10px;
     opacity: 1;
   }
+}
+
+.task5 {
+  list-style-type: none;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+.task5 a {
+  float: left;
+  border: 1px solid blue;
+  padding: 5px;
+  margin-right: 10px;
+  display: block;
+  text-decoration: none;
+}
+
+.task5 a:hover {
+  background-color: #484848;
+  color: white;
+  border: 1px solid black;
+}
+
+.task6 {
+  list-style-type: none;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+.task6 li {
+  display: inline-block;
+}
+
+.task6 a {
+  border: 1px solid blue;
+  padding: 5px;
+  margin-right: 10px;
+  text-decoration: none;
+  width: 45%;
+  margin: 5px;
+}
+
+.task6 a:hover {
+  background-color: #484848;
+  color: white;
+  border: 1px solid black;
+}
+
+.holiday {
+  color: gray;
+}
+
+.task9 td:active {
+  color: red;
+}
+
+.task8 li {
+  display: inline-block;
+}
+
+.task8 {
+  list-style-type: none;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  background-color: #fc9d00;
+  padding: 10px;
+}
+
+.task8 a:hover {
+  background-color: #fc9d50;
+}
+
+.task8 a {
+  /* border: 1px solid blue; */
+  padding: 5px;
+  text-decoration: none;
+  width: 45%;
+  color: white;
 }

@@ -47,5 +47,15 @@
   border-color: black;
 }
 
-.second-div p {
+.green-text {
+  color: green;
+}
+
+.red-text {
+  color: red;
+}
+
+.second-div p::before {
+  content: "Начало:";
+  color: red;
 }
