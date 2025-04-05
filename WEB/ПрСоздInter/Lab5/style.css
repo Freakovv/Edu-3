@@ -1,0 +1,29 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#imageLayer2 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  z-index: 0;
+}
+
+/* Слой с текстом (3 пункт) */
+#textLayer3 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+
+  /* Стилизация слоя (4 пункт) */
+  width: 300px;
+  height: 200px;
+  background-color: #ffffff;
+  color: #0066cc;
+  padding: 15px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
