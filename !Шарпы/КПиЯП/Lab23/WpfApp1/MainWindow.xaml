@@ -4,10 +4,10 @@
         Title="WrapPanel Layout" Height="400" Width="600">
     <Grid Background="White">
         <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Content="Window1" Width="200" Height="100" />
-            <Button Content="Window2" Width="100" Height="50" />
-            <Button Content="Window3" Width="50" Height="25" />
-            <Button Content="Window4" Width="25" Height="12.5" />
+            <Button Content="Window1" Width="200" Height="100" Click="Button1_Click"/>
+            <Button Content="Window2" Width="100" Height="50" Click="Button2_Click"/>
+            <Button Content="Window3" Width="50" Height="25" Click="Button3_Click"/>
+            <Button Content="Window4" Width="25" Height="12.5" Click="Button4_Click"/>
         </WrapPanel>
     </Grid>
 </Window>

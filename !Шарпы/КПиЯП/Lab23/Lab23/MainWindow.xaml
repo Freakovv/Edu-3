@@ -24,9 +24,9 @@
         <Rectangle Grid.Column="2" Grid.RowSpan="5" Fill="LightGray" Stroke="Black" Margin="2"/>
 
         <!-- Правая часть -->
-        <Rectangle Grid.Column="3" Grid.Row="0" Grid.RowSpan="1" Fill="DarkGray" Stroke="Black" Margin="2"/>
-        <Rectangle Grid.Column="3" Grid.Row="1" Grid.RowSpan="1" Fill="DarkGray" Stroke="Black" Margin="2"/>
+        <Rectangle Grid.Column="3" Grid.Row="0"  Fill="DarkGray" Stroke="Black" Margin="2"/>
+        <Rectangle Grid.Column="3" Grid.Row="1" Fill="DarkGray" Stroke="Black" Margin="2"/>
         <Rectangle Grid.Column="3" Grid.Row="2" Grid.RowSpan="2" Fill="LightGray" Stroke="Black" Margin="2"/>
-        <Rectangle Grid.Column="3" Grid.Row="4" Grid.RowSpan="1" Fill="DarkGray" Stroke="Black" Margin="2"/>
+        <Rectangle Grid.Column="3" Grid.Row="4" Fill="DarkGray" Stroke="Black" Margin="2"/>
     </Grid>
 </Window>

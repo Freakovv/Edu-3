@@ -1,0 +1,257 @@
+1............
+using System;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
+
+namespace Minesweeper
+{
+    public partial class MainWindow : Window
+    {
+        private readonly bool[,] mines = new bool[3, 3]; // Поле с минами
+        private readonly Random random = new Random();
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            InitializeGame();
+        }
+
+        private void InitializeGame()
+        {
+            // Создаем мины случайным образом
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    mines[i, j] = random.Next(0, 3) == 0; // 50% шанс на мину
+                    Button button = new Button
+                    {
+                        Tag = new Tuple<int, int>(i, j),
+                        FontSize = 16
+                    };
+                    button.Click += Button_Click;
+                    GameGrid.Children.Add(button);
+                }
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button button)
+            {
+                var position = (Tuple<int, int>)button.Tag;
+                int row = position.Item1;
+                int col = position.Item2;
+
+                if (mines[row, col])
+                {
+                    button.Content = "Мина!";
+                    button.Background = Brushes.Red;
+                    MessageBox.Show("Вы проиграли!");
+                    ResetGame();
+                }
+                else
+                {
+                    int minesAround = CountMinesAround(row, col);
+                    button.Content = minesAround.ToString();
+                    button.IsEnabled = false;
+                }
+            }
+        }
+
+        private int CountMinesAround(int row, int col)
+        {
+            int count = 0;
+            for (int i = -1; i <= 1; i++)
+            {
+                for (int j = -1; j <= 1; j++)
+                {
+                    int newRow = row + i;
+                    int newCol = col + j;
+                    if (newRow >= 0 && newRow < 3 && newCol >= 0 && newCol < 3 && mines[newRow, newCol])
+                    {
+                        count++;
+                    }
+                }
+            }
+            return count;
+        }
+
+        private void ResetGame()
+        {
+            GameGrid.Children.Clear();
+            InitializeGame();
+        }
+    }
+}
+
+<Window x:Class="Minesweeper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Мины" Height="300" Width="300">
+    <Grid>
+        <UniformGrid Rows="3" Columns="3" Name="GameGrid">
+        </UniformGrid>
+    </Grid>
+</Window>
+2........
+1/1
+<Window x:Class="SentenceTransformerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sentence Transformer" Height="300" Width="400">
+    <Grid>
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="Menu">
+                <MenuItem Header="Begin" Click="BeginMenu_Click" />
+                <MenuItem Header="About" Click="AboutMenu_Click" />
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>
+
+using System.Windows;
+
+namespace SentenceTransformerApp
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void AboutMenu_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Разработчик: Иван. Версия: 1.0. Все права защищены.");
+        }
+
+        private void BeginMenu_Click(object sender, RoutedEventArgs e)
+        {
+            BeginWindow beginWindow = new BeginWindow();
+            beginWindow.Show();
+        }
+    }
+}
+ 2/2 
+<Window x:Class="SentenceTransformerApp.BeginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Begin Window" Height="300" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox Name="InputTextBox" Height="25" Width="300" Margin="10" />
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <RadioButton Name="FirstLetterRadioButton" Content="First letter" IsChecked="True" />
+                <RadioButton Name="AllLettersRadioButton" Content="All letters" Margin="10" />
+            </StackPanel>
+            <Button Name="TransformButton" Content="Transform" Click="TransformButton_Click" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>
+
+using System.Windows;
+
+namespace SentenceTransformerApp
+{
+    public partial class BeginWindow : Window
+    {
+        public BeginWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void TransformButton_Click(object sender, RoutedEventArgs e)
+        {
+            string inputText = InputTextBox.Text;
+            bool isFirstLetter = FirstLetterRadioButton.IsChecked == true;
+
+            string transformedText = isFirstLetter
+                ? TransformFirstLetter(inputText)
+                : TransformAllLetters(inputText);
+
+            WorkWindow workWindow = new WorkWindow(transformedText);
+            workWindow.Show();
+        }
+
+        private string TransformFirstLetter(string text)
+        {
+            string[] words = text.Split(' ', System.StringSplitOptions.RemoveEmptyEntries);
+            for (int i = 0; i < words.Length; i++)
+            {
+                words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1).ToLower();
+            }
+            return string.Join(" ", words);
+        }
+
+        private string TransformAllLetters(string text)
+        {
+            return text.ToUpper();
+        }
+    }
+}
+3/3
+<Window x:Class="SentenceTransformerApp.WorkWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Work Window" Height="200" Width="400">
+    <Grid>
+        <TextBox Name="ResultTextBox" Height="25" Width="300" Margin="10" IsReadOnly="True" />
+    </Grid>
+</Window>
+
+using System.Windows;
+
+namespace SentenceTransformerApp
+{
+    public partial class WorkWindow : Window
+    {
+        public WorkWindow(string resultText)
+        {
+            InitializeComponent();
+            ResultTextBox.Text = resultText;
+        }
+    }
+}
+..............3
+<Window x:Class="DynamicButtonApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dynamic Button" Height="300" Width="400">
+    <Grid>
+        <Button Name="DynamicButton" Content="Hover me!" Width="100" Height="50" 
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                MouseEnter="DynamicButton_MouseEnter" MouseLeave="DynamicButton_MouseLeave"/>
+    </Grid>
+</Window>
+
+using System.Windows;
+using System.Windows.Controls;
+
+namespace DynamicButtonApp
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void DynamicButton_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            // Увеличение кнопки
+            Button button = sender as Button;
+            button.Width = this.Width;
+            button.Height = this.Height;
+        }
+
+        private void DynamicButton_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            // Возвращение к изначальному размеру
+            Button button = sender as Button;
+            button.Width = 100;
+            button.Height = 50;
+        }
+    }
+}
