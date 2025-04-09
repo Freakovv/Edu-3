@@ -1,0 +1,82 @@
+.osnovnoj {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  background-color: rgb(173, 234, 230);
+  overflow: hidden;
+}
+
+@keyframes right-square {
+  0% {
+    left: 200px;
+    top: 0;
+    background-color: red;
+  }
+  20% {
+    left: 200px;
+    top: 200px;
+    background-color: red;
+  }
+
+  60% {
+    left: 200px;
+    top: 200px;
+    background-color: orange;
+  }
+  70%,
+  80% {
+    left: 200px;
+    top: 0;
+    background-color: red;
+  }
+  100% {
+    left: 200px;
+    top: 0;
+    background-color: red;
+  }
+}
+
+@keyframes left-square {
+  0% {
+    left: 0;
+    top: 0;
+    background-color: purple;
+  }
+  25% {
+    left: 0;
+    top: 200px;
+    background-color: purple;
+  }
+  50% {
+    left: 200px;
+    top: 200px;
+    background-color: orange;
+  }
+  75% {
+    left: 0;
+    top: 200px;
+    background-color: purple;
+  }
+  100% {
+    left: 0;
+    top: 0;
+    background-color: purple;
+  }
+}
+.pervij {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-color: red;
+  animation: right-square 4s infinite;
+  animation-delay: 5000ms;
+}
+
+.eto_vtoroy {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-color: purple;
+  animation: left-square 4s infinite reverse;
+  animation-delay: 5000ms;
+}

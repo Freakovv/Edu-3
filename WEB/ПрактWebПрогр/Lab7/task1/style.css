@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  position: relative;
+  width: 200px;
+  height: 500px;
+  border: 1px solid #000;
+  overflow: hidden; /* чтобы не выходила за пределы области */
+}
+
+.box {
+  position: absolute;
+  width: 20px; /* ширина объекта */
+  height: 20px; /* высота объекта */
+  border-radius: 50%; /* чтобы сделать объекты круглыми */
+  right: 90px;
+}
+
+.box1 {
+  background-color: red;
+  top: 480px;
+  animation: moveDown 6s infinite alternate;
+}
+
+.box2 {
+  background-color: blue;
+  bottom: 0;
+  animation: moveUp 6s infinite alternate-reverse;
+}
+
+@keyframes moveUp {
+  0% {
+    top: 0;
+  }
+  100% {
+    top: 0;
+  }
+  50% {
+    top: 235px;
+  }
+}
+
+@keyframes moveDown {
+  0% {
+    bottom: 0;
+  }
+  100% {
+    bottom: 0;
+  }
+  50% {
+    top: 245px;
+  }
+}
