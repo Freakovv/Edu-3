@@ -1,16 +1,93 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Lab5 - Layers and CSS</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <h1>Лабораторная работа 5</h1>
+
+    <h2>Задание 1: Работа со слоями</h2>
     <div id="imageLayer2">
-      <img src="1.png" alt="ща крутой скрин сделаю" />
+      <img src="https://via.placeholder.com/200x100" alt="Пример изображения" />
+    </div>
+    <div id="textLayer3">Этот слой содержит текст и фоновое изображение</div>
+
+    <div class="position-demo">
+      <h3>Демонстрация position:</h3>
+      <div class="box static">static</div>
+      <div class="box relative">relative</div>
+      <div class="box absolute">absolute</div>
+      <div class="box fixed">fixed</div>
     </div>
 
-    <div id="textLayer3">Слой содержащий текст</div>
+    <h2>Задание 2: Ссылка с подсказкой</h2>
+    <a href="#" class="info-link" data-tooltip="Обычная ссылка"
+      >Наведи на меня</a
+    >
+    <br />
+    <a
+      href="#"
+      class="info-link"
+      data-tooltip="Эта подсказка не должна показываться"
+      >Отключенная ссылка</a
+    >
+
+    <h2>Задание 3: Список дел</h2>
+    <ul class="todo-list">
+      <li>Купить молоко</li>
+      <li class="completed">Закончить лабораторную</li>
+      <li>Позвонить маме</li>
+      <li class="completed">Заплатить за интернет</li>
+    </ul>
+
+    <h2>Задание 4: Стилизация текста</h2>
+    <div class="text-block" tabindex="0">
+      Этот блок текста демонстрирует стилизацию первой буквы и строки.
+      Попробуйте кликнуть сюда или перейти по Tab, чтобы увидеть эффект фокуса.
+      Первая строка станет полужирной, а первая буква - большой и синей.
+    </div>
+
+    <h2>Задание 5: Таблица</h2>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Название</th>
+          <th>Цена</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Ноутбук</td>
+          <td>1200</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Телефон</td>
+          <td>800</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Наушники</td>
+          <td>150</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Пустая таблица (для демонстрации):</h3>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Название</th>
+          <th>Цена</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </body>
 </html>

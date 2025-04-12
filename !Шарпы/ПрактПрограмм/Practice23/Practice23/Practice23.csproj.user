@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChildForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task3\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task3\SearchResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task3\StudentEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
