@@ -1,0 +1,12 @@
+﻿<Window x:Class="Lab24_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Button Game" Height="200" Width="300">
+    <Grid>
+        <Button x:Name="Button1" Content="Кнопка 1" Width="100" Height="30" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+        <Button x:Name="Button2" Content="Кнопка 2" Width="100" Height="30" Click="Button_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10"/>
+        <Button x:Name="Button3" Content="Кнопка 3" Width="100" Height="30" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:Name="Button4" Content="Кнопка 4" Width="100" Height="30" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10"/>
+        <Button x:Name="Button5" Content="Кнопка 5" Width="100" Height="30" Click="Button_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10"/>
+    </Grid>
+</Window>
