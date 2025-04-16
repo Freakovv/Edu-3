@@ -1,0 +1,25 @@
+d:\cs\czFlag\bin\Debug\czFlag.exe
+d:\cs\czFlag\bin\Debug\czFlag.pdb
+d:\cs\czFlag\obj\Debug\ResolveAssemblyReference.cache
+d:\cs\czFlag\obj\Debug\czFlag.Properties.Resources.resources
+d:\cs\czFlag\obj\Debug\czFlag.csproj.GenerateResource.Cache
+d:\cs\czFlag\obj\Debug\czFlag.exe
+d:\cs\czFlag\obj\Debug\czFlag.pdb
+d:\cs\czFlag\obj\Debug\czFlag.Form1.resources
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.exe
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.pdb
+E:\learning\Programming_lectures\Примеры\czFlag\bin\Debug\czFlag.exe
+E:\learning\Programming_lectures\Примеры\czFlag\bin\Debug\czFlag.pdb
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.csprojResolveAssemblyReference.cache
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.Form1.resources
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.Properties.Resources.resources
+E:\learning\Programming_lectures\Примеры\czFlag\obj\Debug\czFlag.csproj.GenerateResource.Cache
+F:\Си шарп\флаг\czFlag\bin\Debug\czFlag.exe
+F:\Си шарп\флаг\czFlag\bin\Debug\czFlag.pdb
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.csprojAssemblyReference.cache
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.Form1.resources
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.Properties.Resources.resources
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.csproj.GenerateResource.cache
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.csproj.CoreCompileInputs.cache
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.exe
+F:\Си шарп\флаг\czFlag\obj\Debug\czFlag.pdb

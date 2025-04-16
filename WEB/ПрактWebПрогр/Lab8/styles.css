@@ -1,0 +1,19 @@
+.task1 ol {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+.box50px {
+  border: 2px solid red;
+  width: 200px;
+  height: 200px;
+  border-radius: 0 0 0 50px;
+}
+
+.box50-25px {
+  border: 2px solid red;
+  width: 200px;
+  height: 200px;
+  border-radius: 0 0 50px 25px;
+}

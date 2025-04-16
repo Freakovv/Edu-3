@@ -1,3 +1,5 @@
+using Practice23.Task3;
+
 namespace Practice23
 {
     internal static class Program
@@ -6,7 +8,7 @@ namespace Practice23
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new Task1());
+            Application.Run(new Task4());
         }
     }
 }

@@ -13,7 +13,7 @@ namespace Lab24_1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Button clickedButton = sender as Button;
+            Button? clickedButton = sender as Button;
             if (clickedButton == null) return;
 
             // Логика изменения видимости кнопок
@@ -33,21 +33,20 @@ namespace Lab24_1
                 case "Button4":
                     ToggleVisibility(Button2);
                     ToggleVisibility(Button5);
+                    ToggleVisibility(Button4);
                     break;
                 case "Button5":
-                    ToggleVisibility(Button3);
-                    ToggleVisibility(Button4);
+                    ToggleVisibility(Button5);
                     break;
             }
 
-            // Проверяем, осталась ли хотя бы одна видимая кнопка
             if (Button1.Visibility == Visibility.Hidden &&
                 Button2.Visibility == Visibility.Hidden &&
                 Button3.Visibility == Visibility.Hidden &&
                 Button4.Visibility == Visibility.Hidden &&
                 Button5.Visibility == Visibility.Hidden)
             {
-                MessageBox.Show("Поздравляем! Все кнопки скрыты.");
+                MessageBox.Show("оу ес! все кнопки скрыты.");
             }
         }
 

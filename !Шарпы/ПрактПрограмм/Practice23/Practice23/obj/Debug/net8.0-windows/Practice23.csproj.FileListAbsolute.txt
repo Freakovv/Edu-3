@@ -20,3 +20,4 @@ C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограм�
 C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice23\Practice23\obj\Debug\net8.0-windows\Practice23.Task3.MainForm.resources
 C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice23\Practice23\obj\Debug\net8.0-windows\Practice23.Task3.SearchResultsForm.resources
 C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice23\Practice23\obj\Debug\net8.0-windows\Practice23.Task3.StudentEditForm.resources
+C:\Users\Freakovv\Desktop\учеба\Edu-3\!Шарпы\ПрактПрограмм\Practice23\Practice23\obj\Debug\net8.0-windows\Practice23.Task4.resources
