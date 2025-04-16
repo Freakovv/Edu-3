@@ -1,7 +1,9 @@
 .task1 ol {
   list-style-type: none;
-  display: flex;
   gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
 }
 
 .box50px {
@@ -15,5 +17,64 @@
   border: 2px solid red;
   width: 200px;
   height: 200px;
-  border-radius: 0 0 50px 25px;
+  border-radius: 0 0 0 50px/25px;
+}
+
+.box50-100px {
+  border: 2px solid red;
+  border-radius: 0 0 0 50px/100px;
+  height: 200px;
+  width: 200px;
+}
+
+.box30-30 {
+  border: 2px solid red;
+  border-radius: 0 0 0 30%/30%;
+  height: 200px;
+  width: 200px;
+}
+.box90-100 {
+  border: 2px solid red;
+  border-radius: 0 0 0 90%/100px;
+  height: 200px;
+  width: 200px;
+}
+
+.a {
+  border: 10px solid;
+  height: 100px;
+  width: 250px;
+  border-color: red green blue yellow;
+  margin: 10px;
+}
+
+.b {
+  border: 10px solid;
+  height: 100px;
+  width: 250px;
+  border-color: red green blue;
+  margin: 10px;
+}
+
+.c {
+  border: 10px solid;
+  height: 100px;
+  width: 250px;
+  border-color: red green;
+  margin: 10px;
+}
+
+.d {
+  border: 10px solid;
+  height: 100px;
+  width: 250px;
+  border-color: red;
+  margin: 10px;
+}
+
+.task3 {
+  text-align: justify;
+  width: 50%;
+  transform: skewX(10deg);
+  margin: 0 auto; /* центрируем вместо margin-left */
 }
